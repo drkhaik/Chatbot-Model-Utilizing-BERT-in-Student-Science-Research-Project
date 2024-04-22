@@ -1,0 +1,2431 @@
+<!DOCTYPE HTML>
+<html dir="ltr" lang="vi">
+ <head>
+  <meta content="index, follow" name="robots"/>
+  <meta charset="utf-8"/>
+  <title>
+   UEF - Đại học Kinh tế - Tài chính thành phố Hồ Chí Minh
+  </title>
+  <meta content="Trường đào tạo hàng đầu về Kinh tế Tài chính ở Việt Nam, chuẩn Quốc tế, đảm bảo thực tập, việc làm tại các tập đoàn lớn." name="description"/>
+  <meta content="UEF - Đại học Kinh tế - Tài chính thành phố Hồ Chí Minh" property="og:title"/>
+  <meta content="https://static-cdn.uef.edu.vn/s-img/uef-fb-thumnail.jpg" property="og:image"/>
+  <meta content="Trường đào tạo hàng đầu về Kinh tế Tài chính ở Việt Nam, chuẩn Quốc tế, đảm bảo thực tập, việc làm tại các tập đoàn lớn." property="og:description"/>
+  <meta content="h-OYJn7Dr5Qd78uzo2NHfLqQv-q6TBPvVu0pUdiecZ4" name="google-site-verification"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="https://www.uef.edu.vn/favicon.ico?201707190827" rel="shortcut icon" type="image/x-icon"/>
+  <style>
+   html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,em,img,q,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,audio,video{margin:0;padding:0;border:0;outline:0;font-size:100%;vertical-align:baseline;}
+body{line-height:1}
+article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}
+nav ul{list-style:none}
+a{margin:0;padding:0;font-size:100%;vertical-align:baseline;}
+table{border-collapse:collapse;border-spacing:0}
+hr{display:block;height:1px;border:0;border-top:1px solid #ccc;margin:1em 0;padding:0}
+input,select{vertical-align:middle}
+  </style>
+  <link href="https://static-cdn.uef.edu.vn/minify/site/default/0.0.8.8.css?07" rel="stylesheet" type="text/css"/>
+  <link href="https://www.uef.edu.vn" rel="canonical"/>
+ </head>
+ <body>
+  <div>
+   <a class="cd-top" href="#0">
+    <div class="wrap-back-to-top all-icon icon-gototop">
+    </div>
+   </a>
+   <div class="container-home">
+    <div class="wrap-body-container">
+     <div class="row header">
+      <section class="section-header">
+       <!-- Template Start: site/common/WrapHeader -->
+       <style>
+        .consultant-banner{
+        display:none;
+    }
+    .menu-nganh-overflow{
+        overflow-y:scroll;
+        height:300px;
+        box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3);
+         background-color: #C02F1F;
+    }
+    .menu-nganh-overflow li{
+        margin-left: 0px!important;
+    }
+     ::-webkit-scrollbar {
+       width: 12px !important;
+    }
+
+    /* Track */
+   ::-webkit-scrollbar-track {
+      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3) !important;
+      -webkit-border-radius: 10px !important;
+      border-radius: 10px !important;
+    }
+
+    /* Handle */
+    ::-webkit-scrollbar-thumb {
+      -webkit-border-radius: 10px !important;
+      border-radius: 10px !important;
+      background: #41617D !important; 
+      -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5) !important; 
+
+    }
+    ::-webkit-scrollbar-thumb:window-inactive {
+      background: #41617D !important; 
+    }
+    .wrap-asu-image{
+        float:right;
+    }
+    .wrap-asu-image img{
+        max-width:115px;
+        height: auto;
+    }
+    .wrap-home-lang-flag{
+        clear:both;
+        margin-top: -24px;
+    }
+    .menu-home-all{
+        width:67%;
+        margin-top:12px;
+    }
+    .wrap-menu-home-1 .nav li a{
+        padding: 9px 6px 2px 5px;
+    }
+    .w-search{
+        float:right;
+        clear:both;
+        height:34px;
+        background:#D12325;
+        margin-top: 12px;
+        position:relative;
+    }
+    .search input[type="text"]{
+        width:100px;
+        margin-top:6px;
+     }
+     .search{
+         padding-right:4px;
+     }
+     .text-search {
+        margin-top: 11px;
+    }
+    .lang-flag{
+        margin-top:18px;
+    }
+    .arrow-1{
+        font-size:18px;
+        color:#3492d6;
+        font-weight: bold;
+        float:right;
+        padding:5px;
+    }
+    
+    .wrap-scroll-image-right-bt{
+    position: fixed;
+    top: 23%;
+    margin-left: 1024px;
+    max-width: 80px;
+    padding-left:5px;
+    
+}
+.wrap-scroll-image-right-bt img{
+    width:100%;
+}
+    @media all and (max-width:768px){
+         .menu-home-all{
+            width:100%;
+        }
+        .wrap-scroll-image-right-bt {
+            top: 23%;
+            margin-left: 0px;
+            right: 0;
+            z-index: 99999;
+          }
+          .bt-phone, .bt-zalo, .bt-facebook{
+              opacity:0.5;
+          }
+          .bt-phone:hover, .bt-zalo:hover, .bt-facebook:hover{
+              opacity:1;
+          }
+    }
+    @media all and (max-width:480px){
+         .menu-home-all{
+            margin-top:0;
+        }
+        .wrap-asu-image{
+            padding-top:17px;
+            width:95px;
+            padding-right: 5px;
+            border-left:0;
+        }
+        .wrap-asu-image img{
+            max-width:75px;
+        }
+        .wrap-home-lang-flag{
+            margin-top: -22px;
+        }
+    }
+       </style>
+       <script>
+        function toggleDiv123(id){
+       
+        $("."+id).toggle("slow", function(){
+            if($("."+id).is(":visible")){
+                $(".arrow-1").text("⇲") ;
+            } else{
+             
+                $(".arrow-1").text("⇱") ;
+                
+            }
+        });
+        }
+       </script>
+       <div class="consultant-banner">
+        <a href="javascript:toggleDiv123('cons')">
+         <span class="arrow-1">
+          ⇲
+         </span>
+        </a>
+        <br/>
+        <a href="https://www.uef.edu.vn/tu-van-tuyen-sinh">
+         <div class="cons">
+          <img src="https://static-cdn.uef.edu.vn/s-img/banner-consultant.png"/>
+          <br/>
+         </div>
+         <img src="https://static-cdn.uef.edu.vn/s-img/cau-hoi-truc-tuyen.gif"/>
+        </a>
+       </div>
+       <div class="row container-home-header no-border">
+        <!--LOGO-->
+        <style>
+         .right-image {
+  visibility: visible;
+  opacity: 1;
+  -webkit-transition: opacity .5s 0s, visibility 0s .5s;
+  -moz-transition: opacity .5s 0s, visibility 0s .5s;
+  transition: opacity .5s 0s, visibility 0s .5s;
+}
+
+.right-image.cd-is-visible, .right-image.cd-fade-out {
+  -webkit-transition: opacity .5s 0s, visibility 0s 0s;
+  -moz-transition: opacity .5s 0s, visibility 0s 0s;
+  transition: opacity .5s 0s, visibility 0s 0s;
+}
+.right-image.cd-is-visible {
+  visibility: visible;
+  opacity: 1;
+}
+.right-image.cd-fade-out {
+  opacity: .8;
+}
+
+.cd-resize-img img{
+    width: auto;
+    max-width: none!important;
+    height:100%!important;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}  
+.bt-phone:hover, .bt-zalo:hover, .bt-facebook:hover{
+   animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+   transform: translate3d(0, 0, 0);
+   perspective: 1000px;
+}
+        </style>
+        <div class="wrap-scroll-image-right-bt">
+         <div class="bt-phone">
+          <a href="tel:02854225555">
+           <img class="right-image" src="https://static-cdn.uef.edu.vn/s-img/bt-phone.png"/>
+          </a>
+         </div>
+         <div class="bt-zalo">
+          <a href="https://zalo.me/3348896206453897206" target="_blank">
+           <img class="right-image" src="https://static-cdn.uef.edu.vn/s-img/bt-zalo.png"/>
+          </a>
+         </div>
+         <div class="bt-facebook">
+          <a href="https://m.me/uef.edu.vn" target="_blank">
+           <img class="right-image" src="https://static-cdn.uef.edu.vn/s-img/bt-facebook.png"/>
+          </a>
+         </div>
+        </div>
+        <div class="logo-home-img">
+         <a href="https://www.uef.edu.vn/">
+          <img alt="Logo UEF" src="https://static-cdn.uef.edu.vn/s-img/logo-uef-home.jpg" title="Logo UEF - Trường Đại học Kinh tế - Tài chính thành phố Hồ Chí Minh"/>
+         </a>
+        </div>
+        <div class="wrap-menu-home-2 margin-top-3px">
+         <!--LANGUAGE FLAG-->
+         <div class="wrap-menu j-menu">
+          <a class="toggleMenu j-menu-icon" href="javascript:void(0);">
+           Menu
+          </a>
+          <ul class="nav j-nav j-list hide">
+           <li class="j-row">
+            <span class="all-icon icon-home">
+            </span>
+            <a class="padding-left-5px" href="https://www.uef.edu.vn/">
+             Trang chủ
+            </a>
+           </li>
+           <li class="j-row">
+            <a href="#">
+             Sinh viên UEF
+            </a>
+            <ul class="j-list hide">
+             <li>
+              <a href="https://www.uef.edu.vn/sinh-vien-uef/dich-vu-sinh-vien">
+               Dịch vụ sinh viên
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/sinh-vien-uef/chinh-sach-giao-thong-13330">
+               Chính sách giao thông
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/hoat-dong-sinh-vien">
+               Hoạt động sinh viên
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/qhdn/thong-tin-thuc-tap">
+               Thực tập - Kiến tập - Việc làm
+              </a>
+             </li>
+             <li>
+              <a href="https://alumni.uef.edu.vn" target="_blank">
+               Cựu Sinh viên
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="j-row">
+            <a href="#">
+             Phòng - Viện - Trung tâm
+            </a>
+            <ul class="j-list hide">
+             <li>
+              <a href="#">
+               Văn phòng trường
+              </a>
+              <span class="btn-expand-right font-size-14">
+               »
+              </span>
+              <ul class="j-list hide">
+               <li>
+                <a href="#">
+                 Văn phòng trường
+                </a>
+                <li>
+                 <a href="https://www.uef.edu.vn/ttqlcntt">
+                  Trung tâm Quản lý CNTT
+                 </a>
+                </li>
+                <li>
+                 <a href="#">
+                  Ban thanh tra
+                 </a>
+                </li>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/pqt">
+               Phòng Quản trị
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/ptc">
+               Phòng Tài chính
+              </a>
+             </li>
+             <li>
+              <a href="#">
+               Phòng Đào tạo
+              </a>
+              <span class="btn-expand-right font-size-14">
+               »
+              </span>
+              <ul class="j-list hide">
+               <li>
+                <a href="https://www.uef.edu.vn/daotao">
+                 Phòng Đào tạo
+                </a>
+               </li>
+               <li>
+                <a href="https://www.uef.edu.vn/tththv">
+                 Trung tâm Hỗ trợ học vụ
+                </a>
+               </li>
+               <li>
+                <a href="https://lib.uef.edu.vn/">
+                 Thư viện
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/khaothi">
+               Phòng Khảo thí
+              </a>
+             </li>
+             <li>
+              <a href="#">
+               Phòng Công tác sinh viên
+              </a>
+              <span class="btn-expand-right font-size-14">
+               »
+              </span>
+              <ul class="j-list hide">
+               <li>
+                <a href="https://www.uef.edu.vn/ctsv">
+                 Phòng Công tác sinh viên
+                </a>
+               </li>
+               <li>
+                <a href="https://www.uef.edu.vn/servicelearning">
+                 Trung tâm Kết nối cộng đồng
+                </a>
+               </li>
+               <li>
+                <a href="https://www.uef.edu.vn/tttvtl_htpl">
+                 Trung tâm Tham vấn tâm lý và Hỗ trợ pháp luật
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/pkhcn">
+               Phòng Khoa học công nghệ và Dự án quốc tế
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/vien-dao-tao-sdh-khcn">
+               Viện Đào tạo sau đại học
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/vdtqt">
+               Viện Quốc tế
+              </a>
+             </li>
+             <li>
+              <a href="#">
+               Viện Tây Ban Nha và Mỹ La Tinh
+              </a>
+             </li>
+             <li>
+              <a href="#">
+               Viện Văn hóa - Nghệ thuật
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/tvts">
+               Trung tâm Tư vấn - Tuyển sinh
+              </a>
+             </li>
+             <li>
+              <a href="#">
+               Trung tâm Thông tin - Truyền thông
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/qhdn">
+               Trung tâm Hợp tác doanh nghiệp
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/ttthnn">
+               Trung tâm Tin học ngoại ngữ
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/hanhchinh_dbcl">
+               Trung tâm Bảo đảm chất lượng
+              </a>
+             </li>
+             <li>
+              <a href="#">
+               Trung tâm Đào tạo thiết kế dự án
+              </a>
+             </li>
+             <li>
+              <a href="#">
+               Trung tâm Lý luận chính trị và Giáo dục thể chất
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="j-row">
+            <a href="#">
+             Khoa
+            </a>
+            <ul class="j-list hide">
+             <li>
+              <a href="https://www.uef.edu.vn/khoakinhte">
+               Khoa Kinh tế
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/kqtkd">
+               Khoa Quản trị kinh doanh
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/khoamarketing">
+               Khoa Marketing
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/ktctm">
+               Khoa Tài chính - Kế toán
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/kqhcctt">
+               Khoa Quan hệ công chúng và Truyền thông
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/kcntt">
+               Khoa Công nghệ thông tin
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/knn">
+               Khoa Tiếng Anh
+              </a>
+             </li>
+             <li>
+              <a href="#">
+               Khoa Luật
+              </a>
+              <span class="btn-expand-right font-size-14">
+               »
+              </span>
+              <ul class="j-list hide">
+               <li>
+                <a href="https://www.uef.edu.vn/kluat">
+                 Khoa Luật
+                </a>
+               </li>
+               <li>
+                <a href="https://www.uef.edu.vn/ttplhk">
+                 Trung tâm Pháp luật Hoa Kỳ
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="#">
+               Khoa Quan hệ quốc tế
+              </a>
+              <span class="btn-expand-right font-size-14">
+               »
+              </span>
+              <ul class="j-list hide">
+               <li>
+                <a href="https://www.uef.edu.vn/kqhqt">
+                 Khoa Quan hệ quốc tế
+                </a>
+               </li>
+               <li>
+                <a href="#">
+                 Trung tâm Nghiên cứu quốc tế
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/kqtdl">
+               Khoa Quản trị du lịch - Khách sạn
+              </a>
+             </li>
+             <li>
+              <a href="https://www.uef.edu.vn/knnvhqt">
+               Khoa Ngôn ngữ và Văn hóa quốc tế
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="j-row">
+            <a href="https://www.uef.edu.vn/doan" target="_blank">
+             Đoàn-Hội
+            </a>
+           </li>
+           <li class="j-row">
+            <a href="https://lib.uef.edu.vn/">
+             Thư viện
+            </a>
+           </li>
+           <li class="j-row">
+            <a href="https://jdi.uef.edu.vn">
+             Tạp chí PT&amp;HN
+            </a>
+           </li>
+           <li class="j-row">
+            <a href="https://www.uef.edu.vn/lien-he">
+             Liên hệ
+            </a>
+           </li>
+           <li>
+            <a href="#">
+             Đăng nhập
+            </a>
+            <ul class="j-list hide">
+             <li>
+              <a href="https://student.uef.edu.vn" target="_blank">
+               <div class="tooltip">
+                Sinh viên
+               </div>
+              </a>
+             </li>
+             <li>
+              <a href="https://portal.uef.edu.vn" target="_blank">
+               <div class="tooltip">
+                Nhân Viên - Giảng viên
+               </div>
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </div>
+        </div>
+        <div class="wrap-home-lang-flag">
+         <div class="wrap-asu-image">
+          <img height="90" src="https://static-cdn.uef.edu.vn/s-img/qs-stars.png" width="225"/>
+         </div>
+         <div class="lang-flag padding-right-5px">
+          <a href="https://www.uef.edu.vn/">
+           <span class="all-icon small-icon vn-flag">
+           </span>
+          </a>
+          <a href="https://www.uef.edu.vn/en">
+           <span class="all-icon small-icon en-flag">
+           </span>
+          </a>
+         </div>
+        </div>
+        <!--MENU 1 FOR MOBILE-->
+        <div class="wrap-menu-home-1">
+         <div class="wrap-menu j-menu">
+          <div class="toggleMenu j-menu-icon">
+           <a href="javascript:void(0);">
+            <img alt="Menu hover" height="50" src="https://static-cdn.uef.edu.vn/s-img/menu-icon-hover.png" width="58"/>
+            <p>
+             Menu
+            </p>
+           </a>
+          </div>
+          <a href="https://www.uef.edu.vn/en">
+           <div class="wrap-flag-mobile">
+            <span class="all-icon small-icon en-flag">
+            </span>
+           </div>
+          </a>
+          <a href="">
+           <div class="wrap-flag-mobile">
+            <span class="all-icon vn-flag">
+            </span>
+           </div>
+          </a>
+          <a href="#">
+           <div class="wrap-flag-mobile wrap-asu-image">
+            <img src="https://static-cdn.uef.edu.vn/s-img/qs-stars.png"/>
+           </div>
+          </a>
+          <div class="w-search version-pc">
+           <form action="https://www.uef.edu.vn/tim-kiem" method="post" name="formSearch">
+            <div class="j-submit text-search" onclick='document.forms["formSearch"].submit();'>
+             <span class="all-icon icon-search">
+             </span>
+            </div>
+            <div class="search">
+             <input name="txtSearch" placeholder="Tìm kiếm..." size="50" type="text"/>
+            </div>
+           </form>
+          </div>
+          <div class="menu-home-all">
+           <ul class="nav j-nav j-list hide">
+            <li class="j-row">
+             <a href="#">
+              GIỚI THIỆU
+             </a>
+             <span class="j-btn-expand btn-menu-down">
+              ▼
+             </span>
+             <ul class="j-list hide">
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/tong-quan-uef">
+                Tổng quan UEF
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/logo-truong-dai-hoc-kinh-te-tai-chinh-tp-hcm-uef-1210">
+                Logo UEF
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/su-mang-dao-tao">
+                Sứ mạng đào tạo
+               </a>
+              </li>
+              <li>
+               <a href="#">
+                Cơ cấu tổ chức
+               </a>
+               <span class="btn-expand-right font-size-14">
+                »
+               </span>
+               <ul class="j-list hide">
+                <li class="margin-left-6px">
+                 <a href="https://www.uef.edu.vn/gioi-thieu/so-do-to-chuc-5009">
+                  Sơ đồ tổ chức
+                 </a>
+                </li>
+                <li>
+                 <a href="https://www.uef.edu.vn/gioi-thieu/hoi-dong-nha-truong">
+                  Hội đồng trường
+                 </a>
+                </li>
+                <li>
+                 <a href="https://www.uef.edu.vn/gioi-thieu/ban-dieu-hanh-13132">
+                  Ban điều hành
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/mo-hinh-dao-tao">
+                Mô hình đào tạo
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/cac-nganh-dao-tao">
+                Các ngành đào tạo
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/doi-tac-dao-tao">
+                Đối tác đào tạo
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/du-an-mo-nganh">
+                Dự án mở ngành
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/chinh-sach-bao-mat-thong-tin-3174">
+                Chính sách bảo mật thông tin
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/uef-ban-hanh-chinh-sach-phat-trien-ben-vung-ve-moi-truong-13834">
+                Chính sách phát triển bền vững
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/hanhchinh_dbcl/gioi-thieu/chinh-sach-dbcl-4772">
+                Chính sách BĐCL
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/hanhchinh_dbcl/bao-cao-tu-danh-gia/ket-qua-kdclgd-19149">
+                Kết quả kiểm định chất lượng giáo dục
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/bao-cao-3-cong-khai">
+                Công khai các điều kiện ĐBCL
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/cong-khai-mau-van-bang-chung-chi-24338">
+                Công khai mẫu văn bằng, chứng chỉ
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/gioi-thieu/co-so-vat-chat">
+                Cơ sở vật chất
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/danh-muc-hinh-anh">
+                Thư viện ảnh
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="j-row">
+             <a href="#">
+              THẾ MẠNH UEF
+             </a>
+             <span class="j-btn-expand btn-menu-down">
+              ▼
+             </span>
+             <ul class="j-list hide">
+              <li>
+               <a href="https://www.uef.edu.vn/the-manh-uef/tai-sao-chon-uef">
+                Tại sao chọn UEF?
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/the-manh-uef/tien-nghi-hoc-tap">
+                Tiện nghi học tập
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/the-manh-uef/chuong-trinh-ngoai-ngu">
+                Chương trình tiếng Anh
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/the-manh-uef/doi-ngu-giang-vien-1654">
+                Đội ngũ giảng viên
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/the-manh-uef/kham-pha-chuoi-hoc-tap-ky-nang-mem-tai-uef-2455">
+                Trang bị kỹ năng
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/the-manh-uef/trien-vong-nghe-nghiep">
+                Triển vọng nghề nghiệp
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/the-manh-uef/hoat-dong-ngoai-khoa-1655">
+                Hoạt động ngoại khóa
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/the-manh-uef/giao-luu-quoc-te-1965">
+                Giao lưu quốc tế
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/the-manh-uef/dich-vu-ho-tro-1653">
+                Dịch vụ hỗ trợ
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="j-row">
+             <a href="#">
+              TUYỂN SINH
+             </a>
+             <span class="j-btn-expand btn-menu-down">
+              ▼
+             </span>
+             <ul class="j-list hide">
+              <li>
+               <a href="#">
+                Hướng nghiệp
+               </a>
+               <span class="btn-expand-right font-size-14">
+                »
+               </span>
+               <ul class="j-list hide">
+                <li>
+                 <a href="https://www.uef.edu.vn/tin-huong-nghiep">
+                  Tin hướng nghiệp
+                 </a>
+                </li>
+                <li>
+                 <a href="https://www.uef.edu.vn/huong-nghiep/trac-nghiem-nghe-nghiep">
+                  Trắc nghiệm chọn nghề
+                 </a>
+                </li>
+                <li>
+                 <a href="https://www.uef.edu.vn/huong-nghiep/ky-nang-thanh-cong">
+                  Kỹ năng thành công
+                 </a>
+                </li>
+                <li>
+                 <a href="https://www.uef.edu.vn/huong-nghiep/thu-vien-hinh-anh">
+                  Góc ảnh Hướng nghiệp
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/tuyen-sinh">
+                Thông tin tuyển sinh
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/tu-van-tuyen-sinh">
+                Tư vấn tuyển sinh
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/tin-tuyen-sinh/cam-nang-tuyen-sinh">
+                Cẩm nang tuyển sinh
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/ket-qua-tuyen-sinh">
+                Kết quả tuyển sinh
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/tin-tuyen-sinh/cau-hoi-thuong-gap">
+                Câu hỏi thường gặp
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/tin-tuyen-sinh/hoc-phi-hoc-bong">
+                Học phí &amp; Học bổng
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="j-row">
+             <a href="#">
+              NGÀNH ĐÀO TẠO
+             </a>
+             <span class="j-btn-expand btn-menu-down">
+              ▼
+             </span>
+             <ul class="j-list hide menu-nganh-overflow">
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/bat-dong-san-9210">
+                Bất động sản
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/cong-nghe-tai-chinh-13133">
+                Công nghệ tài chính
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/cong-nghe-thong-tin">
+                Công nghệ thông tin
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/nganh-cong-nghe-truyen-thong-3741">
+                Công nghệ truyền thông
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/digital-marketing-13109">
+                Digital Marketing
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/ke-toan">
+                Kế toán
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/kiem-toan-13129">
+                Kiểm toán
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/khoa-hoc-du-lieu-8035">
+                Khoa học dữ liệu
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/kinh-doanh-quoc-te">
+                Kinh doanh quốc tế
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/kinh-doanh-thuong-mai-5107">
+                Kinh doanh thương mại
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/kinh-te-quoc-te-13137">
+                Kinh tế quốc tế
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/kinh-te-so-22691">
+                Kinh tế số
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/ky-thuat-phan-mem-22034">
+                Kỹ thuật phần mềm
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/logistics-va-quan-ly-chuoi-cung-ung-5053">
+                Logistics và quản lý chuỗi cung ứng
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/nganh-luat-5881">
+                Luật
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/luat-kinh-te">
+                Luật kinh tế
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/luat-quoc-te-2895">
+                Luật quốc tế
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/marketing">
+                Marketing
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/ngon-ngu-anh">
+                Ngôn ngữ Anh
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/ngon-ngu-han-2901">
+                Ngôn ngữ Hàn Quốc
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/ngon-ngu-nhat-2642">
+                Ngôn ngữ Nhật
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/ngon-ngu-trung-quoc-6919">
+                Ngôn ngữ Trung Quốc
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/nganh-quan-he-cong-chung-1496">
+                Quan hệ công chúng
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/nganh-quan-he-quoc-te-2560">
+                Quan hệ quốc tế
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/nganh-quan-tri-dich-vu-du-lich-va-lu-hanh-1920">
+                Quản trị dv du lịch và lữ hành
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/nganh-quan-tri-khach-san-1523">
+                Quản trị khách sạn
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/quan-tri-kinh-doanh">
+                Quản trị kinh doanh
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/nganh-quan-tri-nha-hang-va-dich-vu-an-uong-2883">
+                Quản trị nhà hàng và dv ăn uống
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/nganh-quan-tri-nhan-su-1522">
+                Quản trị nhân lực
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/quan-tri-su-kien-13277">
+                Quản trị sự kiện
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/tai-chinh-ngan-hang">
+                Tài chính ngân hàng
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/tai-chinh-quoc-te-9214">
+                Tài chính quốc tế
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/tam-ly-hoc-9599">
+                Tâm lý học
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/thiet-ke-do-hoa-9645">
+                Thiết kế đồ họa
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/nganh-thuong-mai-dien-tu-1494">
+                Thương mại điện tử
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/nganh/truyen-thong-da-phuong-tien-13214">
+                Truyền thông đa phương tiện
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="j-row">
+             <a href="https://www.uef.edu.vn/vdtqt">
+              VIỆN QUỐC TẾ
+             </a>
+            </li>
+            <li class="j-row">
+             <a href="https://www.uef.edu.vn/qhdn">
+              DOANH NGHIỆP
+             </a>
+            </li>
+            <li class="j-row">
+             <a href="https://www.uef.edu.vn/vstep">
+              VSTEP
+             </a>
+            </li>
+            <li class="j-row for-mobile">
+             <a href="#">
+              Sinh viên UEF
+             </a>
+             <span class="j-btn-expand btn-menu-down">
+              ▼
+             </span>
+             <ul class="j-list hide">
+              <li>
+               <a href="https://www.uef.edu.vn/sinh-vien-uef/dich-vu-sinh-vien">
+                Dịch vụ sinh viên
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/sinh-vien-uef/chinh-sach-giao-thong-13330">
+                Chính sách giao thông
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/hoat-dong-sinh-vien">
+                Hoạt động sinh viên
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/thuc-tap-viec-lam">
+                Thực tập - Kiến tập - Việc làm
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="j-row for-mobile">
+             <a href="#">
+              Phòng - Viện - Trung tâm
+             </a>
+             <span class="j-btn-expand btn-menu-down">
+              ▼
+             </span>
+             <ul class="j-list hide">
+              <li>
+               <a href="#">
+                Văn phòng trường
+               </a>
+               <span class="btn-expand-right font-size-14">
+                »
+               </span>
+               <ul class="j-list hide">
+                <li>
+                 <a href="#">
+                  Văn phòng trường
+                 </a>
+                </li>
+                <li>
+                 <a href="https://www.uef.edu.vn/ttqlcntt">
+                  Trung tâm Quản lý CNTT
+                 </a>
+                </li>
+                <li>
+                 <a href="#">
+                  Ban thanh tra
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/pqt">
+                Phòng Quản trị
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/ptc">
+                Tài chính
+               </a>
+              </li>
+              <li>
+               <a href="#">
+                Phòng Đào tạo
+               </a>
+               <span class="btn-expand-right font-size-14">
+                »
+               </span>
+               <ul class="j-list hide">
+                <li>
+                 <a href="https://www.uef.edu.vn/daotao">
+                  Phòng Đào tạo
+                 </a>
+                </li>
+                <li>
+                 <a href="https://www.uef.edu.vn/tththv">
+                  Trung tâm Hỗ trợ học vụ
+                 </a>
+                </li>
+                <li>
+                 <a href="https://lib.uef.edu.vn/">
+                  Thư viện
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/khaothi">
+                Phòng Khảo thí
+               </a>
+              </li>
+              <li>
+               <a href="#">
+                Phòng Công tác sinh viên
+               </a>
+               <span class="btn-expand-right font-size-14">
+                »
+               </span>
+               <ul class="j-list hide">
+                <li>
+                 <a href="https://www.uef.edu.vn/ctsv">
+                  Phòng Công tác sinh viên
+                 </a>
+                </li>
+                <li>
+                 <a href="https://www.uef.edu.vn/servicelearning">
+                  Trung tâm Kết nối cộng đồng
+                 </a>
+                </li>
+                <li>
+                 <a href="https://www.uef.edu.vn/tttvtl_htpl">
+                  Trung tâm Tham vấn tâm lý và Hỗ trợ pháp luật
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/pkhcn">
+                Phòng Khoa học công nghệ và Dự án quốc tế
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/vien-dao-tao-sdh-khcn">
+                Viện Đào tạo sau đại học
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/vdtqt">
+                Viện Quốc tế
+               </a>
+              </li>
+              <li>
+               <a href="#">
+                Viện Tây Ban Nha và Mỹ La Tinh
+               </a>
+              </li>
+              <li>
+               <a href="#">
+                Viện Văn hóa - Nghệ thuật
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/tvts">
+                Trung tâm Tư vấn - Tuyển sinh
+               </a>
+              </li>
+              <li>
+               <a href="#">
+                Trung tâm Thông tin - Truyền thông
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/qhdn">
+                Trung tâm Hợp tác doanh nghiệp
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/ttthnn">
+                Trung tâm Tin học ngoại ngữ
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/hanhchinh_dbcl">
+                Trung tâm Bảo đảm chất lượng
+               </a>
+              </li>
+              <li>
+               <a href="#">
+                Trung tâm Đào tạo thiết kế dự án
+               </a>
+              </li>
+              <li>
+               <a href="#">
+                Trung tâm Lý luận chính trị và Giáo dục thể chất
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="j-row for-mobile">
+             <a href="#">
+              Khoa
+             </a>
+             <span class="j-btn-expand btn-menu-down">
+              ▼
+             </span>
+             <ul class="j-list hide">
+              <li>
+               <a href="https://www.uef.edu.vn/khoakinhte">
+                Khoa Kinh tế
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/kqtkd">
+                Khoa Quản trị kinh doanh
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/khoamarketing">
+                Khoa Marketing
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/ktctm">
+                Khoa Tài chính - Kế toán
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/kqhcctt">
+                Khoa Quan hệ công chúng và Truyền thông
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/kcntt">
+                Khoa Công nghệ thông tin
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/knn">
+                Khoa Tiếng Anh
+               </a>
+              </li>
+              <li>
+               <a href="#">
+                Khoa Luật
+               </a>
+               <span class="btn-expand-right font-size-14">
+                »
+               </span>
+               <ul class="j-list hide">
+                <li>
+                 <a href="https://www.uef.edu.vn/kluat">
+                  Khoa Luật
+                 </a>
+                 <li>
+                  <a href="https://www.uef.edu.vn/ttplhk">
+                   Trung tâm Pháp luật Hoa Kỳ
+                  </a>
+                 </li>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/kqhqt">
+                Khoa Quan hệ quốc tế
+               </a>
+               <span class="btn-expand-right font-size-14">
+                »
+               </span>
+               <ul class="j-list hide">
+                <li>
+                 <a href="#">
+                  Trung tâm Nghiên cứu quốc tế
+                 </a>
+                </li>
+               </ul>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/kqtdl">
+                Khoa Quản trị du lịch - Khách sạn
+               </a>
+              </li>
+              <li>
+               <a href="https://www.uef.edu.vn/knnvhqt">
+                Khoa Ngôn ngữ và Văn hóa quốc tế
+               </a>
+              </li>
+             </ul>
+            </li>
+            <li class="j-row for-mobile">
+             <a href="https://www.uef.edu.vn/doan">
+              Đoàn - Hội
+             </a>
+            </li>
+            <li class="j-row for-mobile">
+             <a href="https://lib.uef.edu.vn/">
+              Thư viện
+             </a>
+            </li>
+            <li class="j-row for-mobile">
+             <a href="https://jdi.uef.edu.vn">
+              Tạp chí PT&amp;HN
+             </a>
+            </li>
+            <li class="j-row for-mobile">
+             <a href="https://www.uef.edu.vn/lien-he">
+              Liên hệ
+             </a>
+            </li>
+            <li class="j-row for-mobile">
+             <a href="#">
+              Đăng nhập
+             </a>
+             <span class="j-btn-expand btn-menu-down">
+              ▼
+             </span>
+             <ul class="j-list hide">
+              <li>
+               <a href="https://student.uef.edu.vn" target="_blank">
+                Sinh viên
+               </a>
+              </li>
+              <li>
+               <a href="https://portal.uef.edu.vn" target="_blank">
+                Nhân Viên - Giảng viên
+               </a>
+              </li>
+             </ul>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <!-- Template End: site/common/WrapHeader -->
+      </section>
+     </div>
+     <div class="row banner">
+      <section class="section-top">
+       <!-- Template Start: site/common/WrapBannerHome -->
+       <style>
+        .pre-load-slider{
+        z-index:0!important;  
+        display:none;
+      }
+      .wrap-banner-mobile img{
+          width:100%;
+          height:auto;
+      }
+      #wowslider-container1 .ws_bullets a img{
+        width: 480px;
+    }
+       </style>
+       <link href="https://static-cdn.uef.edu.vn/libs/slider/style1024x378.css" rel="stylesheet" type="text/css"/>
+       <div class="wrap-loading-image">
+        <img alt="" src="https://static-cdn.uef.edu.vn/s-img/loading.gif"/>
+       </div>
+       <div class="wrap-banner-mobile">
+        <div class="pre-load-slider" id="wowslider-container1">
+         <div class="ws_images">
+          <ul>
+           <li>
+            <a href="#">
+             <picture>
+              <source media="(max-width: 480px)" srcset="https://user-cdn.uef.edu.vn/img/slider/banner-web-hocba-31-5-1711931311-small.png"/>
+              <img height="378" src="https://user-cdn.uef.edu.vn/img/slider/banner-web-hocba-31-5-1711931311.png" width="1024"/>
+             </picture>
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uef.edu.vn/tin-tuyen-sinh/de-an-tuyen-sinh-dai-hoc-chinh-quy-du-kien-nam-2024-cua-uef-23114">
+             <picture>
+              <source media="(max-width: 480px)" srcset="https://user-cdn.uef.edu.vn/img/slider/bannerwweb4phuongthuc-1-1703150607-small.jpg"/>
+              <img height="378" src="https://user-cdn.uef.edu.vn/img/slider/bannerwweb4phuongthuc-1-1703150607.jpg" width="1024"/>
+             </picture>
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uef.edu.vn/vdtqt/thong-tin-tuyen-sinh/thong-bao-tuyen-sinh-chuong-trinh-cu-nhan-quoc-te-nam-2024-23312">
+             <picture>
+              <source media="(max-width: 480px)" srcset="https://user-cdn.uef.edu.vn/img/slider/banner-web-tuyen-sinh-vien-quoc-te-op2-1705568366-small.png"/>
+              <img height="378" src="https://user-cdn.uef.edu.vn/img/slider/banner-web-tuyen-sinh-vien-quoc-te-op2-1705568366.png" width="1024"/>
+             </picture>
+            </a>
+           </li>
+           <li>
+            <a href="https://www.uef.edu.vn/tin-tuyen-sinh/uef-thong-bao-tuyen-sinh-dao-tao-trinh-do-thac-si-dot-1-nam-2024-22956">
+             <picture>
+              <source media="(max-width: 480px)" srcset="https://user-cdn.uef.edu.vn/img/slider/caohoc-dot1-2024-1702864555-small.jpg"/>
+              <img height="378" src="https://user-cdn.uef.edu.vn/img/slider/caohoc-dot1-2024-1702864555.jpg" width="1024"/>
+             </picture>
+            </a>
+           </li>
+           <li>
+            <a href="#">
+             <picture>
+              <source media="(max-width: 480px)" srcset="https://user-cdn.uef.edu.vn/img/slider/kiem-dinh-chat-luong-2-1641368037-small.jpg"/>
+              <img height="378" src="https://user-cdn.uef.edu.vn/img/slider/kiem-dinh-chat-luong-2-1641368037.jpg" width="1024"/>
+             </picture>
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div class="ws_bullets">
+          <a href="#">
+           <img alt="" src="https://user-cdn.uef.edu.vn/img/slider/banner-web-hocba-31-5-1711931311-small.png"/>
+          </a>
+          <a href="#">
+           <img alt="" src="https://user-cdn.uef.edu.vn/img/slider/bannerwweb4phuongthuc-1-1703150607-small.jpg"/>
+          </a>
+          <a href="#">
+           <img alt="" src="https://user-cdn.uef.edu.vn/img/slider/banner-web-tuyen-sinh-vien-quoc-te-op2-1705568366-small.png"/>
+          </a>
+          <a href="#">
+           <img alt="" src="https://user-cdn.uef.edu.vn/img/slider/caohoc-dot1-2024-1702864555-small.jpg"/>
+          </a>
+          <a href="#">
+           <img alt="" src="https://user-cdn.uef.edu.vn/img/slider/kiem-dinh-chat-luong-2-1641368037-small.jpg"/>
+          </a>
+         </div>
+        </div>
+       </div>
+       <script defer="" src="https://static-cdn.uef.edu.vn/libs/slider/wowslider.js" type="text/javascript">
+       </script>
+       <script defer="" src="https://static-cdn.uef.edu.vn/libs/slider/script1024x378.js" type="text/javascript">
+       </script>
+       <!-- Template End: site/common/WrapBannerHome -->
+      </section>
+     </div>
+     <div class="row wrap-general-news">
+      <div class="col-4-of-6 left-general-news">
+       <section class="section-center-left">
+        <!-- Template Start: site/news/WrapNewsLeft -->
+        <div class="wrap-home-container">
+         <div class="row news-category-title-demo">
+          <a href="https://www.uef.edu.vn/tin-tuyen-sinh">
+           <div class="all-icon wrap-icon title-icon icon-3">
+           </div>
+           <div class="wrap-title">
+            Tuyển sinh - Đào tạo
+           </div>
+          </a>
+         </div>
+         <div class="row wrap-admission-news-demo">
+          <div class="col-3-of-6 wrap-first-news">
+           <div class="wrap-image">
+            <a href="https://www.uef.edu.vn/tin-tuyen-sinh/uef-cong-bo-diem-chuan-xet-tuyen-som-cua-phuong-thuc-hoc-ba-dot-1-2024-24431">
+             <img height="250" src="https://user-cdn.uef.edu.vn/img/news/2024-03/xethocba-2024-1711429981.jpg" width="500"/>
+            </a>
+           </div>
+           <div class="wrap-news-info clear-both">
+            <div class="news-title">
+             <a href="https://www.uef.edu.vn/tin-tuyen-sinh/uef-cong-bo-diem-chuan-xet-tuyen-som-cua-phuong-thuc-hoc-ba-dot-1-2024-24431">
+              UEF thông báo kết quả xét tuyển học bạ đợt 31/3 và tiếp tục nhận hồ sơ đến ngày 31/5
+             </a>
+            </div>
+            <div class="news-summary">
+             Chiều ngày 1/4, Hội đồng tuyển sinh Trường Đại học Kinh tế - Tài chính TP.HCM (UEF) đã công bố điểm chuẩn của phương thức xét...
+            </div>
+           </div>
+          </div>
+          <div class="col-3-of-6 wrap-next-news">
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/tin-tuyen-sinh/cap-nhat-thong-tin-xet-tuyen-cung-chuong-trinh-tu-van-tuyen-sinh-dai-truyen-hinh-viet-nam-so-thu-2-24637">
+              Cập nhật thông tin xét tuyển, ngành học xu hướng cùng chương...
+              <img alt="new icon" height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/tin-tuyen-sinh/khoi-dong-chuong-trinh-tu-van-tuyen-sinh-do-uef-phoi-hop-voi-dai-truyen-hinh-viet-nam-to-chuc-24494">
+              Khởi động chương trình tư vấn tuyển sinh do UEF phối hợp với...
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/tin-tuyen-sinh/2k6-hoi-uef-tra-loi-nhung-diem-can-luu-y-trong-quy-trinh-xet-tuyen-som-24483">
+              [2k6 hỏi, UEF trả lời] Những điểm cần lưu ý trong quy trình...
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/tin-tuyen-sinh/chot-lich-thi-tot-nghiep-thpt-nam-2024-ngay-27-va-28-6-24484">
+              Chốt lịch thi tốt nghiệp THPT năm 2024: Ngày 27 và 28/6
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="view-more-demo">
+          <a href="https://www.uef.edu.vn/tin-tuyen-sinh">
+           Xem tiếp &gt;
+          </a>
+         </div>
+        </div>
+        <!-- Template End: site/news/WrapNewsLeft -->
+       </section>
+       <section class="section-center-left">
+        <!-- Template Start: site/news/WrapNewsLeft -->
+        <div class="wrap-home-container">
+         <div class="row news-category-title-demo">
+          <a href="https://www.uef.edu.vn/tin-tuc-su-kien">
+           <div class="all-icon wrap-icon title-icon icon-4">
+           </div>
+           <div class="wrap-title">
+            Tin tức sự kiện
+           </div>
+          </a>
+         </div>
+         <div class="row wrap-admission-news-demo">
+          <div class="col-3-of-6 wrap-first-news">
+           <div class="wrap-image">
+            <a href="https://www.uef.edu.vn/tin-tuc-su-kien/tim-hieu-ve-mo-hinh-kinh-te-tuan-hoan-nhieu-goc-nhin-moi-duoc-mo-ra-cho-uefers-24656">
+             <img height="250" src="https://user-cdn.uef.edu.vn/img/news/2024-04/mo-hinh-tuan-hoan-4-1711963244.jpg" width="500"/>
+            </a>
+           </div>
+           <div class="wrap-news-info clear-both">
+            <div class="news-title">
+             <a href="https://www.uef.edu.vn/tin-tuc-su-kien/tim-hieu-ve-mo-hinh-kinh-te-tuan-hoan-nhieu-goc-nhin-moi-duoc-mo-ra-cho-uefers-24656">
+              Tìm hiểu về mô hình kinh tế tuần hoàn, nhiều góc nhìn mới được mở ra cho UEFers
+             </a>
+            </div>
+            <div class="news-summary">
+             Với mong muốn giúp sinh viên hiểu rõ hơn về biến đổi khí hậu và mô hình kinh tế tuần hoàn, chiều ngày 30/3 vừa qua, Khoa Kinh...
+            </div>
+           </div>
+          </div>
+          <div class="col-3-of-6 wrap-next-news">
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/tin-tuc-su-kien/nam-vung-kien-thuc-ve-moi-truong-van-hoa-toan-cau-sinh-vien-se-co-them-chia-khoa-thanh-cong-24646">
+              Nắm vững kiến thức về môi trường văn hóa toàn cầu, sinh viên...
+              <img alt="new icon" height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/tin-tuc-su-kien/uef-ky-ket-hop-tac-cung-nova-mo-rong-co-hoi-thuc-tap-viec-lam-cho-sinh-vien-24642">
+              UEF ký kết hợp tác cùng Nova Service, mở rộng cơ hội thực tập,...
+              <img alt="new icon" height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/tin-tuc-su-kien/olympic-uef-2024-nhung-khoanh-khac-dang-nho-tai-le-khai-mac-hua-hen-hanh-trinh-but-pha-manh-me-24640">
+              Olympic UEF 2024: Những khoảnh khắc đáng nhớ tại lễ khai mạc,...
+              <img alt="new icon" height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/tin-tuc-su-kien/infographic-con-so-va-su-kien-noi-bat-cua-nha-uef-trong-thang-32024-24638">
+              [Infographic] Con số và sự kiện nổi bật của Nhà UEF trong...
+              <img alt="new icon" height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="view-more-demo">
+          <a href="https://www.uef.edu.vn/tin-tuc-su-kien">
+           Xem tiếp &gt;
+          </a>
+         </div>
+        </div>
+        <!-- Template End: site/news/WrapNewsLeft -->
+       </section>
+       <section class="section-center-left">
+        <!-- Template Start: site/news/WrapNewsLeft -->
+        <div class="wrap-home-container">
+         <div class="row news-category-title-demo">
+          <a href="https://www.uef.edu.vn/hoat-dong-quoc-te">
+           <div class="all-icon wrap-icon title-icon icon-1">
+           </div>
+           <div class="wrap-title">
+            Hoạt động quốc tế
+           </div>
+          </a>
+         </div>
+         <div class="row wrap-admission-news-demo">
+          <div class="col-3-of-6 wrap-first-news">
+           <div class="wrap-image">
+            <a href="https://www.uef.edu.vn/hoat-dong-quoc-te/uef-trao-doi-cung-lanh-su-quan-nhat-ban-tai-tp-hcm-mo-rong-co-hoi-trai-nghiem-quoc-te-cho-sinh-vien-24648">
+             <img height="250" src="https://user-cdn.uef.edu.vn/img/news/2024-04/uef-gapgp-lsq-nhatban-4-1711958300.jpg" width="500"/>
+            </a>
+           </div>
+           <div class="wrap-news-info clear-both">
+            <div class="news-title">
+             <a href="https://www.uef.edu.vn/hoat-dong-quoc-te/uef-trao-doi-cung-lanh-su-quan-nhat-ban-tai-tp-hcm-mo-rong-co-hoi-trai-nghiem-quoc-te-cho-sinh-vien-24648">
+              UEF trao đổi cùng Lãnh sự quán Nhật Bản tại TP.HCM, mở rộng cơ hội trải nghiệm quốc tế cho sinh viên
+             </a>
+            </div>
+            <div class="news-summary">
+             Đẩy mạnh thực hiện mục tiêu quốc tế hóa giáo dục cũng như nâng cao chất lượng đào tạo ngành Ngôn ngữ Nhật tại UEF, Khoa Ngôn...
+            </div>
+           </div>
+          </div>
+          <div class="col-3-of-6 wrap-next-news">
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/hoat-dong-quoc-te/uef-chuan-bi-don-chao-ngay-hoi-van-hoa-am-thuc-tay-ban-nha-va-my-latinh-hoanh-trang-vao-44-24641">
+              UEFers lại được dịp tham gia ngày hội văn hóa - ẩm thực Tây...
+              <img alt="new icon" height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/hoat-dong-quoc-te/3-sinh-vien-uef-tham-gia-phong-van-thuc-tap-sinh-quoc-te-tai-trung-quoc-24629">
+              3 sinh viên UEF tham gia phỏng vấn thực tập sinh quốc tế tại...
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/hoat-dong-quoc-te/sinh-vien-khoa-quan-he-quoc-te-thuc-tap-tai-thai-lan-campuchia-voi-nhieu-goc-nhin-moi-me-va-gia-tri-24564">
+              Thực tập tại Campuchia, Thái Lan, sinh viên Quan hệ quốc tế...
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+           <div class="col-6-of-6 next-news-item wrap-news-info">
+            <div class="bullet all-icon icon-bullet">
+            </div>
+            <div class="title">
+             <a href="https://www.uef.edu.vn/hoat-dong-quoc-te/uefers-hao-hung-giao-luu-van-hoa-tich-luy-trai-nghiem-cung-doan-sinh-vien-den-tu-nhat-ban-24566">
+              UEFers hào hứng giao lưu văn hóa, tích lũy trải nghiệm cùng...
+             </a>
+            </div>
+            <div class="news-line">
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="view-more-demo">
+          <a href="https://www.uef.edu.vn/hoat-dong-quoc-te">
+           Xem tiếp &gt;
+          </a>
+         </div>
+        </div>
+        <!-- Template End: site/news/WrapNewsLeft -->
+       </section>
+       <section class="section-center-left">
+        <!-- Template Start: site/news/WrapEventsRight -->
+        <style>
+         .event-date-1-home{
+        background:#990000;
+        padding: 8px 2px 8px 2px;
+        font-weight:bold;
+    }
+    .events-location-home{
+        line-height: 18px;
+        color: #000;
+        font-size: 11px;
+    }
+    .events-period-home{
+        line-height: 24px;
+        padding-top: 5px;
+        font-size: 11px;
+    }
+    .padding-left-14px{
+       padding-left: 14px !important;
+    }
+    .padding-left-25px{
+       padding-left: 25px !important;
+    }
+    .line-height-18px{
+    line-height:18px;
+}
+        </style>
+        <div class="wrap-home-events">
+         <div class="row news-category-title-demo">
+          <a href="https://www.uef.edu.vn/lich-su-kien">
+           <div class="all-icon wrap-icon title-icon icon-6">
+           </div>
+           <div class="wrap-title">
+            Lịch sự kiện
+           </div>
+          </a>
+         </div>
+         <div class="row">
+          <div class="col-3-of-6 events-block-home">
+           <div class="date-block-home col-2-of-6">
+            <div class="col-8-of-8 event-date-1-home line-height-18px">
+             Thứ Ba
+            </div>
+            <div class="col-8-of-8 event-date-2-home">
+             02-04-2024
+            </div>
+           </div>
+           <div class="content-block-home col-4-of-6">
+            <div class="events-title">
+             Chương trình văn hoá "Vinh Hiển - Truyền thống Hà Nội xưa và nay"
+            </div>
+            <div class="events-period-home">
+             <span class="all-icon icon-period">
+             </span>
+             <span class="padding-left-25px">
+              8h30
+             </span>
+             <span class="all-icon icon-location">
+             </span>
+             <span class="padding-left-14px">
+              Sảnh sự kiện tầng 15
+             </span>
+            </div>
+           </div>
+          </div>
+          <div class="col-3-of-6 events-block-home">
+           <div class="date-block-home col-2-of-6">
+            <div class="col-8-of-8 event-date-1-home line-height-18px">
+             Thứ Tư
+            </div>
+            <div class="col-8-of-8 event-date-2-home">
+             03-04-2024
+            </div>
+           </div>
+           <div class="content-block-home col-4-of-6">
+            <div class="events-title">
+             Seminar “English language teaching: What's hot and what's not”
+            </div>
+            <div class="events-period-home">
+             <span class="all-icon icon-period">
+             </span>
+             <span class="padding-left-25px">
+              9h00
+             </span>
+             <span class="all-icon icon-location">
+             </span>
+             <span class="padding-left-14px">
+              Phòng họp Democracy
+             </span>
+            </div>
+           </div>
+          </div>
+          <div class="col-3-of-6 events-block-home">
+           <div class="date-block-home col-2-of-6">
+            <div class="col-8-of-8 event-date-1-home line-height-18px">
+             Thứ Tư
+            </div>
+            <div class="col-8-of-8 event-date-2-home">
+             03-04-2024
+            </div>
+           </div>
+           <div class="content-block-home col-4-of-6">
+            <div class="events-title">
+             Seminar “English language teaching: What's hot and what's not”
+            </div>
+            <div class="events-period-home">
+             <span class="all-icon icon-period">
+             </span>
+             <span class="padding-left-25px">
+              9h00
+             </span>
+             <span class="all-icon icon-location">
+             </span>
+             <span class="padding-left-14px">
+              Phòng họp Democracy
+             </span>
+            </div>
+           </div>
+          </div>
+          <div class="col-3-of-6 events-block-home">
+           <div class="date-block-home col-2-of-6">
+            <div class="col-8-of-8 event-date-1-home line-height-18px">
+             Thứ Tư
+            </div>
+            <div class="col-8-of-8 event-date-2-home">
+             03-04-2024
+            </div>
+           </div>
+           <div class="content-block-home col-4-of-6">
+            <div class="events-title">
+             Workshop "Nghệ thuật biên tập tác phẩm Báo chí - Truyền thông"
+            </div>
+            <div class="events-period-home">
+             <span class="all-icon icon-period">
+             </span>
+             <span class="padding-left-25px">
+              14h00
+             </span>
+             <span class="all-icon icon-location">
+             </span>
+             <span class="padding-left-14px">
+              Phòng họp Democracy
+             </span>
+            </div>
+           </div>
+          </div>
+          <div class="view-more-demo">
+           <a href="https://www.uef.edu.vn/lich-su-kien">
+            Xem tiếp &gt;
+           </a>
+          </div>
+         </div>
+        </div>
+        <!-- Template End: site/news/WrapEventsRight -->
+       </section>
+      </div>
+      <div class="col-2-of-6 right-general-news">
+       <section class="section-center-right">
+        <!-- Template Start: site/common/WrapNotify -->
+        <style>
+         .border-bottom-dotted{
+        border-bottom: dotted 1px #DEDEDE;
+        padding-bottom: 14px;
+    }
+    .padding-bottom-15px{
+    padding-bottom:15px!important;
+}
+        </style>
+        <div class="wrap-home-notify">
+         <div class="row news-category-title-demo">
+          <a href="https://www.uef.edu.vn/thong-bao">
+           <div class="all-icon wrap-icon title-icon icon-2">
+           </div>
+           <div class="wrap-title">
+            Nổi bật
+           </div>
+          </a>
+         </div>
+         <div class="row wrap-school-notify">
+          <div class="faq-col-1 border-bottom-dotted faq-block-demo">
+           <div class="faq-bullet all-icon icon-bullet">
+           </div>
+           <div class="faq-title">
+            <a href="https://www.uef.edu.vn/dang-ky-xet-tuyen-hoc-ba-online">
+             Đăng ký xét tuyển Online
+             <img src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif"/>
+            </a>
+           </div>
+          </div>
+          <div class="faq-col-1 border-bottom-dotted faq-block-demo">
+           <div class="faq-bullet all-icon icon-bullet">
+           </div>
+           <div class="faq-title">
+            <a href="https://www.uef.edu.vn/ket-qua-tuyen-sinh/ket-qua-xet-tuyen-hoc-ba-thpt">
+             Tra cứu kết quả xét tuyển học bạ
+             <img src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif"/>
+            </a>
+           </div>
+          </div>
+          <div class="faq-col-1 border-bottom-dotted faq-block-demo">
+           <div class="faq-bullet all-icon icon-bullet">
+           </div>
+           <div class="faq-title">
+            <a href="https://www.uef.edu.vn/tin-tuyen-sinh/de-an-tuyen-sinh-dai-hoc-chinh-quy-du-kien-nam-2024-cua-uef-23114">
+             Đề án tuyển sinh đại học chính quy dự kiến năm 2024 của UEF
+             <img alt="icon tin mới" height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+            </a>
+           </div>
+          </div>
+          <div class="faq-col-1 border-bottom-dotted faq-block-demo">
+           <div class="faq-bullet all-icon icon-bullet">
+           </div>
+           <div class="faq-title">
+            <a href="https://www.uef.edu.vn/tin-tuyen-sinh/uef-thong-bao-tuyen-sinh-dao-tao-trinh-do-thac-si-dot-1-nam-2024-22956">
+             ​UEF thông báo tuyển sinh đào tạo trình độ Thạc sĩ đợt 1 - năm 2024
+             <img alt="icon tin mới" height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+            </a>
+           </div>
+          </div>
+          <div class="faq-col-1 border-bottom-dotted faq-block-demo">
+           <div class="faq-bullet all-icon icon-bullet">
+           </div>
+           <div class="faq-title">
+            <a href="https://www.uef.edu.vn/vdtqt/thong-tin-tuyen-sinh/thong-bao-tuyen-sinh-chuong-trinh-cu-nhan-quoc-te-nam-2024-23312">
+             Thông báo tuyển sinh Chương trình Cử nhân quốc tế năm 2024
+             <img height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+            </a>
+           </div>
+          </div>
+          <div class="faq-col-1 padding-bottom-15px faq-block-demo">
+           <div class="faq-bullet all-icon icon-bullet">
+           </div>
+           <div class="faq-title">
+            <a href="https://tuyendung.uef.edu.vn" target="_blank">
+             Thông tin tuyển dụng
+             <img alt="icon tin mới" height="16" src="https://static-cdn.uef.edu.vn/s-img/newicon_vi.gif" width="33"/>
+            </a>
+           </div>
+          </div>
+         </div>
+        </div>
+        <!-- Template End: site/common/WrapNotify -->
+       </section>
+       <section class="section-center-right">
+        <!-- Template Start: site/common/WrapQuickReference2_inc -->
+        <div id="tpl-reference2">
+        </div>
+        <!-- Template End: site/common/WrapQuickReference2_inc -->
+       </section>
+       <section class="section-center-right">
+        <!-- Template Start: site/common/WrapVideo_inc -->
+        <div id="tpl-video">
+        </div>
+        <!-- Template End: site/common/WrapVideo_inc -->
+       </section>
+       <section class="section-center-right">
+        <!-- Template Start: site/common/WrapNewsletter_inc -->
+        <div id="tpl_newsletter">
+        </div>
+        <!-- Template End: site/common/WrapNewsletter_inc -->
+       </section>
+      </div>
+     </div>
+     <section class="section-bottom">
+      <!-- Template Start: site/common/WrapMajor_inc -->
+      <script>
+       function toggleDiv(id){
+        $("."+id).toggle("slow", function(){
+            if($("."+id).is(":visible")){
+                $(".arrow-"+id).text("▲") ;
+            } else{
+                $(".arrow-"+id).text("▼") ;
+                
+            }
+        });
+        }
+      </script>
+      <div id="tpl-major">
+      </div>
+      <!-- Template End: site/common/WrapMajor_inc -->
+     </section>
+     <section class="section-bottom">
+      <!-- Template Start: site/common/WrapPartner -->
+      <link href="https://static-cdn.uef.edu.vn/libs/bxslider/bxslider.css" rel="stylesheet" type="text/css"/>
+      <style>
+       .bx-wrapper .bx-viewport {
+	height: 80px!important;
+        padding-left:10px;
+        padding-top:10px;
+	box-shadow: 0 0 0px #ccc;
+	border:  0px solid #fff;
+	left: -5px;
+	background: #0066B1;
+	-webkit-transform: translatez(0);
+	-moz-transform: translatez(0);
+    	-ms-transform: translatez(0);
+    	-o-transform: translatez(0);
+    	transform: translatez(0);
+}
+
+.wrap-slider-partner{
+  margin-top:4px;
+  margin-left:13px;
+  padding-bottom: 2px;
+  position:relative;
+}
+.popup-partner{
+    width:240px;
+    height:155px;
+    bottom:90px;
+    display: none;
+    position:absolute;
+}
+.popup-partner img{
+   width:100%;
+   border-radius:30px; 
+   border:solid 1px #ec9595;
+}
+.wrap-partner-title{
+    color:#fff;
+    font-size:14px;
+    font-weight: bold;
+    padding-left: 15px;
+    float: left;
+    padding-top: 11px;
+}
+.wrap-partner-container{
+    background:#0066B1;
+ }
+ 
+ .home-partner li a {
+        height: 50px;
+        display: inline-block;
+        padding-left: 80px;
+        background: url("/s-img/logo-doanh-nghiep/partner.jpg") no-repeat;
+        border-radius:10px;
+    }
+.home-partner li .eva-airways a{
+      background-position: 0px 0px;
+}
+.home-partner li .akuruhi a{
+      background-position: -80px 0px;
+}
+.home-partner li .cat-tien-sa a{
+      background-position: -160px 0px;
+}
+.home-partner li .doanh-nhan-sg a{
+      background-position: -240px 0px;
+}
+.home-partner li .acb a{
+      background-position: -320px 0px;
+}
+.home-partner li .caravelle a{
+      background-position: -400px 0px;
+}
+.home-partner li .haa a{
+      background-position: -480px 0px;
+}
+.home-partner li .mcdonald a{
+      background-position: -560px 0px;
+}
+.home-partner li .mcv a{
+      background-position: -640px 0px;
+}
+.home-partner li .nexttech a{
+      background-position: 0px -50px;
+}
+.home-partner li .sacombank a{
+      background-position: -80px -50px;
+}
+.home-partner li .sctv a{
+      background-position: -160px -50px;
+}
+.home-partner li .icsaigon a{
+      background-position: -240px -50px;
+}
+.home-partner li .sgfood a{
+      background-position: -320px -50px;
+}
+.home-partner li .vietcombank a{
+      background-position: -400px -50px;
+}
+.home-partner li .vinpearl a{
+      background-position: -480px -50px;
+}
+.home-partner li .vissan a{
+      background-position: -560px -50px;
+}
+.home-partner li .vnsteel a{
+      background-position: -640px -50px;
+}
+.home-partner li .acca a{
+      background-position: -720px 0px;
+} 
+.home-partner li .vacpa a{
+      background-position: -720px -50px;
+}
+.home-partner li .voh a{
+      background-position: -800px 0px;
+}
+.home-partner li .thanh-nien a{
+      background-position: -800px -50px;
+}
+.home-partner li .saigon-port a{
+    background-position: 0px -100px;
+}
+      </style>
+      <div class="wrap-partner-container">
+       <div class="row">
+        <div class="wrap-partner-icon all-icon icon-8">
+        </div>
+        <div class="wrap-partner-title">
+         Doanh nghiệp đối tác
+        </div>
+       </div>
+       <div class="row wrap-slider-partner">
+        <div class="popup-partner version-pc">
+         <img src="https://static-cdn.uef.edu.vn/s-img/logo-uef-home.jpg"/>
+        </div>
+        <ul class="bxslider home-partner">
+         <li>
+          <div class="eva-airways">
+           <a href="https://www.evaair.com" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="akuruhi">
+           <a href="http://akuruhi.com/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="cat-tien-sa">
+           <a href="http://www.cattiensa.com" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="doanh-nhan-sg">
+           <a href="https://doanhnhansaigon.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="acb">
+           <a href="https://www.acb.com.vn" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="caravelle">
+           <a href="https://www.caravellehotel.com/vi/home-vi/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="haa">
+           <a href="https://www.haa.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="mcdonald">
+           <a href="https://mcdonalds.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="mcv">
+           <a href="https://mcv.com.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="nexttech">
+           <a href="https://nexttech.asia/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="sacombank">
+           <a href="https://www.sacombank.com.vn" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="sctv">
+           <a href="https://www.sctv.com.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="icsaigon">
+           <a href="https://www.icsaigon.com/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="sgfood">
+           <a href="https://sgfoods.com.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="vietcombank">
+           <a href="https://portal.vietcombank.com.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="vinpearl">
+           <a href="https://vinpearl.com" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="vissan">
+           <a href="https://www.vissan.com.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="vnsteel">
+           <a href="https://www.thepmiennam.com.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="vacpa">
+           <a href="http://www.vacpa.org.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="acca">
+           <a href="https://www.accaglobal.com/vn/en.html" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="voh">
+           <a href="https://voh.com.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="thanh-nien">
+           <a href="https://thanhnien.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+         <li>
+          <div class="saigon-port">
+           <a href="https://saigonport.vn/" rel="nofollow" target="_blank">
+           </a>
+          </div>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <script defer="" src="https://static-cdn.uef.edu.vn/libs/bxslider/bxslider.js">
+      </script>
+      <!-- Template End: site/common/WrapPartner -->
+     </section>
+     <section class="section-footer">
+      <!-- Template Start: site/common/WrapFooter_inc -->
+      <style type="text/css">
+       /* .container-home {
+        background-image: url("https://www.uef.edu.vn/newsimg/images/background-images/background-ts.jpg");
+        background-attachment: fixed;
+        background-size: cover;
+		background-position: center;
+        background:#FE0002;
+      }*/
+     .max-width-1024px{
+        max-width:1024px;
+    }
+    .margin-auto{
+        margin:auto;
+    }
+      </style>
+      <div id="tpl-footer">
+      </div>
+      <!-- Template End: site/common/WrapFooter_inc -->
+     </section>
+    </div>
+   </div>
+   <div class="wrap-js">
+    <noscript>
+     <iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-P9BPFM" style="display:none;visibility:hidden" width="0">
+     </iframe>
+    </noscript>
+    <script>
+     (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-P9BPFM');
+    </script>
+    <script type="text/javascript">
+     var url_root = "https://www.uef.edu.vn/", url_img, url_static;
+        var token = "0e31f186454ff8d604166bbff353b55f";
+        url_img = "https://static-cdn.uef.edu.vn/s-img/";
+        url_static = "https://static-cdn.uef.edu.vn/";
+    </script>
+    <script src="https://static-cdn.uef.edu.vn/minify/site/default/home/Index/0.0.158.js?05">
+    </script>
+    <script src="https://static-cdn.uef.edu.vn/libs/lazy/jquery.lazy.min.js">
+    </script>
+    <!--link rel="stylesheet" href="https://static-cdn.uef.edu.vn/libs/sakura/sakura.css" />
+<script src="https://static-cdn.uef.edu.vn/libs/sakura/sakura.min.js" text="text/javascript"></script>
+<script>
+    
+        var sakura = new Sakura('body', {
+            colors: [
+                //{
+                //    gradientColorStart: 'rgba(255, 183, 197, 0.9)',
+                //    gradientColorEnd: 'rgba(255, 197, 208, 0.9)',
+                //    gradientColorDegree: 120,
+                //},
+                {
+                    gradientColorStart: 'rgba(255, 183, 197, 0.9)',
+                    gradientColorEnd: 'rgba(255, 183, 197, 0.9)',
+                    gradientColorDegree: 120,
+                },
+                {
+                    gradientColorStart: 'rgba(255, 183, 197)',
+                    gradientColorEnd: 'rgba(255, 183, 197)',
+                    gradientColorDegree: 120,
+                },
+                 {
+                    gradientColorStart: 'rgba(255, 183, 197, 0.9)',
+                    gradientColorEnd: 'rgba(255, 183, 197, 0.9)',
+                    gradientColorDegree: 120,
+                },
+            ],
+            delay:200,
+        });
+</script-->
+   </div>
+  </div>
+ </body>
+</html>
