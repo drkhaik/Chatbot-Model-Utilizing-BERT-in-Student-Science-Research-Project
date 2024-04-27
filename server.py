@@ -92,6 +92,7 @@ qa = QuestionAnswering(
 # answer = Chỉ cần đạt 1 lần ở ngành thứ 1
 # question = "Về chương trình đào tạo của Song bằng thì sao?"
 # fail
+
 # answer = qa.answer_question(question)
 # print("Answer:", answer)
 
